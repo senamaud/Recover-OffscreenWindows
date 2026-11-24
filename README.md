@@ -54,7 +54,7 @@ The script uses Windows Forms to obtain monitor bounds and working areas, and th
 - The overlap threshold does not guarantee that a window's title bar is reachable.
 - Mixed-DPI monitor configurations, virtual desktops, unusual window styles and application-imposed positioning or size constraints may affect results.
 - Elevated applications may require an elevated PowerShell session.
-- Windows 10/11 runtime testing has not yet been completed.
+- Tested by the project owner on Windows 11. Windows 10 has not been independently validated.
 
 ## Built-in help
 
