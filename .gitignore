@@ -1,0 +1,8 @@
+# Local editor settings
+.vscode/
+.idea/
+
+# Temporary files and logs
+*.tmp
+*.log
+*~
