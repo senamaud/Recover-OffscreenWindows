@@ -6,4 +6,4 @@
 - Center recovered windows on the primary monitor and resize oversized windows.
 - Preserve window Z-order and avoid intentional activation.
 - Add English documentation and keyboard shortcut instructions.
-- Windows runtime validation pending.
+- Initial Windows 11 testing confirmed by the project owner.
